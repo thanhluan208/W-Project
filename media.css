@@ -1,0 +1,47 @@
+@media only screen and (max-width: 800px)
+{
+    .cont1
+    {
+        padding-top: 20%;
+        padding-bottom: 15%;
+    }
+}
+@media only screen and (max-width:490px)
+{
+    #IconContainer #icon #link
+    {
+        width: 45px;
+        font-size: 30px;
+    }
+    #Switch
+    {
+        width: 50px;
+        height: 50px;
+    }
+}
+@media only screen and (max-width:430px)
+{
+    #IconContainer #icon #link
+    {
+        width: 35px;
+        font-size: 20px !important;
+        height: 35px;
+    }
+    #Switch
+    {
+        width:35px;
+        height: 35px;
+    }
+    .mast__text 
+    {
+        font-size: 20px !important;
+    }
+    .mast__title 
+    {
+        font-size:35px !important;
+    }
+    .Dark
+    {
+        margin-bottom: 8%
+    }
+}
